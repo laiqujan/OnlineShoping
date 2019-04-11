@@ -1,0 +1,27 @@
+﻿ #in{
+            margin-left:600px;
+           
+ } #in1{
+       height:100px;
+       position:fixed;
+       width:1510px;
+       margin-left:-15px;
+       
+   }
+        #m{
+       height:90px;
+       position:fixed;
+       width:1510px;
+       margin-left:-15px;
+       margin-top:-10px;
+
+      
+        }
+        
+        .auto-style1 {
+            width: 100%;
+        }a{
+             text-decoration:none;
+             text-decoration-color:aqua;
+             color:silver;
+         }
